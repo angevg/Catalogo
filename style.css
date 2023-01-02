@@ -1,0 +1,44 @@
+@font-face {
+    font-family: baloo-thambi;
+    src: url('baloo-thambi.ttf') format('truetype');
+}
+
+*{
+    font-family: baloo-thambi;
+}
+
+nav{
+    background-color:#D2769E;
+
+}
+
+.nav-link{
+    color: white;
+}
+a{
+    color: white;
+  
+}
+a:hover{
+background-color:#dd90b0;
+border-radius: 5px;
+
+
+}
+h2{
+    margin-top: 1em;
+    text-align: center;
+    color: #D2769E;
+    display: block;
+}
+.title{
+    margin: auto;
+  
+    color: #D2769E;
+    width: 90%;
+    padding: 1px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 0;
+}
+
+
